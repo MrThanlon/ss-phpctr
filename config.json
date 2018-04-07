@@ -1,0 +1,15 @@
+{
+    "server": "0.0.0.0",
+    "port_password": {
+        "8381": "foobar1",
+        "8382": "foobar2",
+        "8383": "foobar3",
+        "8384": "232"
+    },
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "timeout": 60,
+    "method": "aes-256-cfb",
+    "workers": 5,
+    "fast_open": true
+}
